@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Amir Mohammad Rezaie</h1>
 <h3 align="center">I'm a Front-End Developer from Iran, who enjoys learning new things and facing new challenges!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirrezaie&label=Profile%20views&color=0e75b6&style=flat" alt="amirrezaie" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrezaie" alt="amirrezaie" /></a> </p>
 
 
 - 🔭 I worked on [Garden Of Love Project](https://stage.aws.gardenoflove.co/home/)
