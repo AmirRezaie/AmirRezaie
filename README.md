@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KzjyWS-GccucOjNiz669UCyL1ufIBAHN/view?usp=sharing](https://drive.google.com/file/d/1KzjyWS-GccucOjNiz669UCyL1ufIBAHN/view?usp=sharing)
 
-- ⚡ Fun fact **I'm Front-End Developer who like to learn Machine Learning in near future 😁😍**
+- ⚡ Fun fact **I'm Front-End Developer who likes to learn Machine Learning in near future 😁😍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
